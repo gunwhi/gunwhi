@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gunwhi
+- 👋 Hi, I’m @gunwhi (Alexander Kim)
 - 🧠 I'm a ... data scientest specialized in statistical modeling
 - 👀 I’m interested in ... software engineering and full-stack development
 - 🌱 I’m currently learning ... javascript
